@@ -764,4 +764,4 @@ class TwitterListPostsScraper(TwitterSearchScraper):
 
 	@classmethod
 	def from_args(cls, args):
-		return cls(args.list, retries = args.retries)
+		return cls(args.list, retries = args.retries)+,
