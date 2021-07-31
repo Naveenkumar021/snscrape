@@ -5,7 +5,7 @@ below command converts output tweets into excel
 
 
 
-snscrape --max-results 100 twitter-hashtag SBIN >a.json
+snscrape --max-results 100 twitter-hashtag SBIN >tweets.json
 
 
 
