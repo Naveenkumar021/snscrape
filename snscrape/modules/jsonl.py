@@ -27,4 +27,4 @@ def parse(filename):
 # tests
 if __name__ == '__main__':
     # call parse
-    data = parse(tweet.jsonl')
+    data = parse(tweets.jsonl')
