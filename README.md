@@ -52,12 +52,12 @@ below command converts output tweets into excel
 
   
   
-python3 json2excel.py
+python3 jsonl2_excel.py
   
   
 snscrape --max-results 100 twitter-user SBIN >tweets.json
   
- python3 json2excel.py
+ python3 jsonl2_excel.py
   
   
   
